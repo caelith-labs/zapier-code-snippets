@@ -66,7 +66,7 @@ The reason most Code by Zapier steps you see in client accounts are five lines o
 
 These snippets are the load-bearing pieces of the kind of work [Caelith Labs](https://caelithlabs.com) delivers — Zapier engagements for B2B SaaS RevOps teams who've outgrown the duct-tape phase but aren't ready (or shouldn't be) hiring a full automation engineer.
 
-If you want help wiring these patterns into a production lead-routing flow, CRM-hygiene pipeline, or post-sale handoff — or you want a 2-week Operations Sprint that maps the top 5–8 automation opportunities in your stack — get in touch: `hello@caelithlabs.com`.
+If you want help wiring these patterns into a production lead-routing flow, CRM-hygiene pipeline, or post-sale handoff — or you want a 2-week Operations Sprint that maps the top 5–8 automation opportunities in your stack — get in touch: `julian@caelithlabs.com`.
 
 ---
 
